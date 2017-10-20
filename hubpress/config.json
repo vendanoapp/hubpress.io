@@ -3,16 +3,16 @@
     "username": "vendanoapp",
     "repositoryName": "vendanoapp.github.io",
     "branch": "master",
-    "cname": "https://vendanoapp.github.io"
+    "cname": "vendanoapp.github.io"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://vendanoapp.github.io",
+    "site": "http://https://vendanoapp.github.io",
     "hubpress": "https://vendanoapp.github.io",
-    "theme": "//vendanoapp.github.io/themes/casper",
-    "images": "https://vendanoapp.github.io/images"
+    "theme": "//https://vendanoapp.github.io/themes/casper",
+    "images": "http://https://vendanoapp.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

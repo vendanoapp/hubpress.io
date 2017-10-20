@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "http://https://vendanoapp.github.io",
+    "site": "http://vendanoapp.github.io",
     "hubpress": "https://vendanoapp.github.io",
-    "theme": "//https://vendanoapp.github.io/themes/casper",
-    "images": "http://https://vendanoapp.github.io/images"
+    "theme": "//vendanoapp.github.io/themes/casper",
+    "images": "http://vendanoapp.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

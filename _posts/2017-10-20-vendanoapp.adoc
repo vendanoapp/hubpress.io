@@ -1,0 +1,7 @@
+= Tenha seu Comércio no Aplicativo
+
+:hp-alt-title: vendanoapp
+:published_at: 2017-10-20
+:hp-image: /covers/cover.png
+
+information
